@@ -1,5 +1,5 @@
 # /*
-# Introduction to Python Programming 
+# Introduction to Python Programming               2pm- 07-03-2023-Tuesday-Class01
 # Our Instructor's Name : Akash
 
 # Python is a high-level, general-purpose programming language.
@@ -139,8 +139,10 @@ print(type(True))           #<class 'bool'>
         #                Now you need Display , Email , Password and click I'm not a robot .     Then Sign Up 
         #                Registration email will be sent to your email . Now open that email. In email click Complete your registration and you will be redirect to your account. 
         # 
-        #For help or any doubt in this class01 ----01990 709752 
-
+        #For help or any doubt in this Class01 ----01990 709752 
+        
+        #         
+        #        Thanks for your patience.
 
 
 
