@@ -88,6 +88,9 @@
 # float   (float)                                                   Float is a function or reusable code in the Python programming language that converts values into floating point numbers. Floating point numbers are decimal values or fractional numbers like 133.5 
 # boolean (bool)                                                    It's used to represent the truth value of an expression. In computing, the term Boolean means a result that can only have one of two possible values: true or false.
 
+                                    #For Details:    https://www.w3schools.com/python/python_datatypes.asp
+
+
 # Open VS Code and We will see a wecome note.There you can see New file click and name it like Class01.py or any thing you want. Press enter and it will open a window named Create File. Just press enter.
 # Now you are ready to write your First code.
 # */
