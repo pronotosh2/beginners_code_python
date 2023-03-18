@@ -33,14 +33,14 @@
 #               ---manual environment 
 #               ---need 2/3 extension 
 
-# For this course we will use a popular and free software : VS Code also known as Microsoft Visual Studio Code
+# For this course we will use a popular and free software : VS Code also known as Visual Studio Code
   
   
 # After opening your browser write url: https://code.visualstudio.com/
-#      or search in google writing VS Code and you can find it just in second. During installation select all add tasks for future use. 
+#          or search in google writing VS Code and you can find it just in second. During installation select all add tasks for future use. 
 # We will install two extension in VS Code:
-# 1-- Python           from microsoft.com
-# 2-- vscode-icons     from vscode iconcodeicons.team
+# 1-- Python               from microsoft.com
+# 2-- vscode-icons         from vscode iconcodeicons.team
 
 
 # Visual Studio Code is a code editor.
@@ -79,7 +79,7 @@
 # ``        Back comma Quotation
 
 # Above are the basics.
-# ''''''   String literals inside triple quotes, """ or ''', can span multiple lines of text. Python strings are "immutable" which means they cannot be changed after they are created (Java strings also use this immutable style).
+#                     ''''''   String literals inside triple quotes, """ or ''', can span multiple lines of text. Python strings are "immutable" which means they cannot be changed after they are created (Java strings also use this immutable style).
 
 
 # Data types of python:                                              For details: https://www.w3schools.com/python/python_datatypes.asp 
@@ -127,7 +127,7 @@ print(type('2'))            #<class 'str'>
 print(type(True))           #<class 'bool'> 
 
 
-
+        #              if you want to practise with mobile visit website:   https://www.w3schools.com/python/trypython.asp?filename=demo_indentation    or https://www.w3schools.com/
         # We need to open two account
         #github       and website: https://github.com/                and sign up there 
         #           for github you need a email, password and username. After that you have a update notification type y or n,
@@ -139,10 +139,10 @@ print(type(True))           #<class 'bool'>
         # 
         #  
         #stackoverflow      and website:  https://stackoverflow.com/         and sign up there
-        #                Now you need Display , Email , Password and click I'm not a robot .     Then Sign Up 
+        #                Now you need Display Name , Email , Password and click I'm not a robot .     Then Sign Up 
         #                Registration email will be sent to your email . Now open that email. In email click Complete your registration and you will be redirect to your account. 
         # 
-        #For help or any doubt in this Class01 ----01990 709752 
+        #For help or any doubt in this Class01 ----01990 709752              
         
         #         
         #        Thanks for your patience.
