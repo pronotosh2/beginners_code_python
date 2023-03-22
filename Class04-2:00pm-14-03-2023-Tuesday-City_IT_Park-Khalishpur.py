@@ -1,5 +1,5 @@
                               #Class04-2:00pm-14-03-2023-Tuesday-City_IT_Park-Khalishpur
-                        #Nayon1992
+                                                                                                                                                    #Nayon1992
         # Discussion of  Conditional function : how to apply condition and what is its relationship with operaton
         #assignment operator ( = )
        
@@ -28,8 +28,32 @@ if a>b:
 a=100
 b=20
 if a>b:
-    print("Talgas")                 #Talgas 
-print("Akash")                      #Akash 
+    print("Talgas")                 #Talgas                    has indentation to define scope in the code.
+print("Akash")                      #Akash                     has no indentation
+
+
+
+
+
+                        # Please skip 16 lines afterwards.
+                                                                         # Indentation:
+                                                                         # Python relies on indentation (whitespace at the beginning of a line) to define scope in the code. 
+                                                                         # Other programming languages often use curly-brackets for this purpose.
+                                                                         #     Example:
+                                                                         #     If statement, without indentation (will raise an error):
+
+
+a = 33
+b = 200
+if b > a:
+print("b is greater than a")                                          # you will get an error      like below
+
+                                                                        # print("b is greater than a")
+                                                                        #        ^
+                                                                        #IndentationError: expected an indented block
+
+
+
 
 a=10
 b=20
@@ -46,8 +70,8 @@ else:
     # same rule for if 
     # In print command, we generally write in string.
     #If we need to write something in print command in quotation there are two way:
-             #1.  if we want to write in single quotation the string will be in double quotation  
-             #2.  if we want to write in double quotation the string will be in single quotation
+           #1.  if we want to write in single quotation the string will be in double quotation  
+           #2.  if we want to write in double quotation the string will be in single quotation
 
    # tricks # double click the words/select + shift + "
    # this is called shorthand typing or keyboard shortcut 
@@ -58,14 +82,14 @@ father="shezan"
 if father=="nahian":
     print("father name is correct ")
 else:
-    print("father name is not correct ")                           #father name is not correct
+    print("father name is not correct ")            #father name is not correct
 
 me="nasif"
 father="shezan"
 if father=="shezan":
     print("father name is correct ")
 else:
-    print("father name is not correct")                             #father name is correct
+    print("father name is not correct")                                     #father name is correct
 
 a=30
 b=10
@@ -99,31 +123,31 @@ if a<b and a<c:
 elif b<c and b<a:
     print(" b is smallest")
 else:
-    print(" c is smallest")                       #a is smallest
+    print(" c is smallest")                     #a is smallest
 
 a=["Nayon","Farjana","Shukla","Nabab","Shemul","Mim"]    
 if "Akash" in a:
     print("ase")
 else:
-    print("nai")                                  #nai
+    print("nai")                                #nai
 
 a=["Nayon","Farjana","Shukla","Nabab","Shemul","Mim"]    
 if "Nayon" in a:
     print("ase")
 else:
-    print("nai")                                 #ase
+    print("nai")                                #ase
 
              # if nasif in a then remove
 a=["nasif","shezan","akash","nayon","emon"]
 if "nasif" in a:
     a.remove("nasif")
-print("ase")                                     #ase
-print(a)                                         #['shezan', 'akash', 'nayon', 'emon'] 
+print("ase")                                    #ase
+print(a)                                        #['shezan', 'akash', 'nayon', 'emon'] 
 
 a=["ridoy","nayon","batas","nasif","shamim"]
 a.remove("ridoy")
 a.insert(0,"akash")
-print(a)                                         #['akash', 'nayon', 'batas', 'nasif', 'shamim']
+print(a)                                        #['akash', 'nayon', 'batas', 'nasif', 'shamim']
 
 a=["ridoy","nayon","milon","nasif","shamim"]
 a.remove("ridoy")
@@ -135,10 +159,10 @@ else:
 
 
             # The next class will be about loops. 
-                                                             #procedure oriented 
-                                                             #object oriented 
-                                                             #syntax highlighting 
-                                                             #end of the class 
+                                                           #procedure oriented 
+                                                           #object oriented 
+                                                           #syntax highlighting 
+                                                           #end of the class 
 
 
 
@@ -146,6 +170,7 @@ else:
 
 
                         #        Thanks for your patience.
+
 
 
 
