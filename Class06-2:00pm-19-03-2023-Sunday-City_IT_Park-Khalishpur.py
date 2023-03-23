@@ -1,5 +1,5 @@
-                                            # Class06-2:00pm-19-03-2023-Sunday-City_IT_Park-Khalishpur.py   
-                                            # This file has a problem to run please run alternative         Code_only          
+                                            #Class06-2:00pm-19-03-2023-Sunday-City_IT_Park-Khalishpur.py    
+# This file has a problem to run please run alternative          Code_only-Class06-2:00pm-19-03-2023-Sunday-City_IT_Park-Khalishpur.py         
                                             #we need to acquire soft skill
 
 # while loop:       With the while loop we can execute a set of statements as long as a condition is true.
@@ -16,7 +16,7 @@ while True:
 
 
 
-                                                # sometimes Shift + F5       also work  
+                                                # sometimes Shift + F5       also work while debugging 
 
 
                         #discussed :           skippable
@@ -68,8 +68,8 @@ for i in country:
     for j in name:
         if i[0]==j[-1]:
             print(f"{j} is King")
-        print("{j} is commoner")
-
+        else:
+            print(f"{j} is commoner")
 
 
                                                                     #saikat218
